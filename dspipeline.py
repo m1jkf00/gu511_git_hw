@@ -8,7 +8,7 @@ Created: 2018-10-19
 
 Description:
     simple data science pipeline functions and a demo which uses these tools to
-    model a freely available dataset
+    model a freely available datasetd
 
 Usage:
     import dspipeline
